@@ -1,6 +1,6 @@
 #  Fair Loss with Benefit and Utility functions
 
-## Deep Learning architecture for measuring and mitigating the fairness level of the model prediction trained on an unfair dataset
+## Deep Learning architecture for measuring and mitigating the fairness bias of the model prediction trained on an unfair dataset
 
 ## Description
 The script trains a neural network with fairness constraint injection. The fairness is based on the “Benefit” and “Utility” notions taken from the field of mathematical economics. Using these notions we could estimate the “degree of fairness” of some resource distributed among different classes (for example, amnesty). The software is tested using the COMPAS recidivism dataset.

@@ -14,11 +14,16 @@ The script will ideally work in Google Colab notebook, however, it is also could
 Anaconda, Python 3.6, PyTorch, NumPy, OS, SYS, Pandas, Sklearn, Random, URLLib, Keras
 
 ## Author:
-  Dias Issa,
+  Dias Issa, MS candidate,
+  
   Artificial Intelligence and Machine Learning Laboratory (AIM Lab, https://slsp.kaist.ac.kr/xe/), 
+  
   School of Electrical Engineering,
+  
   Korea Advanced Institute of Science and Technology (KAIST),
+  
   Daejeon, Korea,
+  
   dias.issa@kaist.ac.kr;
 
 ## Used material:
